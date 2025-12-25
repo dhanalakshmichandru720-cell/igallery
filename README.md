@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <html>
     <head>
         <title>Gallery</title>
@@ -134,6 +135,7 @@ img2.addEventListener("mouseout",()=>
 {
     img2.style.transform="scale(1)"
 });
+```
 ## OUTPUT:
 ![ab](https://github.com/user-attachments/assets/ced18f58-eb36-48d3-83f5-99e2ab0197ff)
 
